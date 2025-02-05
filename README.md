@@ -7,4 +7,4 @@ Built with HTML, CSS, and JavaScript.
 ## Technologies Used  
 - **HTML5** - Structue of the website
 - **CSS3** - styling and animations
-- **JavaScript** - working# Weather_website
+- **JavaScript** - working Weather_website
